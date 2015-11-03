@@ -18,7 +18,7 @@ Coffee Script, Sass, Susy, Compass.
 - Google Font 
 
 ### Quick start
-Clone the git repo `git clone https://github.com/coskuntekin/middleman-starter-kit.git`
+Clone the git repo `git clone https://github.com/coskuntekin/middleman-starter-kit.git ~/.middleman/starter`
 
 ### License
 The code is available under the
